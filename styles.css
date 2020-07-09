@@ -25,3 +25,7 @@ li{
   word-spacing: 11px;
   text-shadow: 2px  2px black;
 }
+img{
+  width: 300px;
+  height:auto;
+}
